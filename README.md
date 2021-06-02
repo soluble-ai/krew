@@ -1,4 +1,6 @@
 <img src="assets/logo/horizontal/color/krew-horizontal-color.png" width="480"
+
+[![IaC](https://app.demo.soluble.cloud/api/v1/public/badges/31eed483-9a39-4ec9-845b-5255539bef0a.svg)](https://app.demo.soluble.cloud/repos/details/github.com/soluble-ai/krew)  
   alt="Krew logo"/>
 
 # Krew
